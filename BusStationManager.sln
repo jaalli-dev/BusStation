@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LunchBreakManagerCLI", "LunchBreakManagerCLI\LunchBreakManagerCLI.csproj", "{121F4BA4-84BD-47CE-98EA-3B426FC9C698}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LunchBreakManagerCore", "LunchBreakManagerCore\LunchBreakManagerCore.csproj", "{30B60B5D-485A-4B7F-8598-9DE3A1FA61D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LunchBreakManagerCore.Tests", "LunchBreakManagerCore.Tests\LunchBreakManagerCore.Tests.csproj", "{4ADB0D29-80D7-4C19-8CB8-FA359242F028}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{121F4BA4-84BD-47CE-98EA-3B426FC9C698}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{121F4BA4-84BD-47CE-98EA-3B426FC9C698}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{121F4BA4-84BD-47CE-98EA-3B426FC9C698}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{121F4BA4-84BD-47CE-98EA-3B426FC9C698}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30B60B5D-485A-4B7F-8598-9DE3A1FA61D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30B60B5D-485A-4B7F-8598-9DE3A1FA61D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30B60B5D-485A-4B7F-8598-9DE3A1FA61D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30B60B5D-485A-4B7F-8598-9DE3A1FA61D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ADB0D29-80D7-4C19-8CB8-FA359242F028}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ADB0D29-80D7-4C19-8CB8-FA359242F028}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ADB0D29-80D7-4C19-8CB8-FA359242F028}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ADB0D29-80D7-4C19-8CB8-FA359242F028}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
